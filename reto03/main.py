@@ -2,8 +2,7 @@ VALID_LENGTH = 16
 
 
 def hide_numbers(numbers: str | int, char_hide: str = 'x', num_clear_digits: int = 3):
-    numbers = str(numbers).replace(' ', '')
-    if len(numbers) != VALID_LENGTH:
+    if len(numbers := str(numbers).replace(' ', '').strip()) != VALID_LENGTH:
         return False
 
     clear_digits = numbers[-num_clear_digits:]
