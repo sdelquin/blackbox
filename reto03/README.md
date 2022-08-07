@@ -1,4 +1,4 @@
-# Reto 3: Ocultado números sensibles
+# Reto 3: Ocultando números sensibles
 
 Crea una función que oculte los números de una tarjeta de crédito, salvo los 3 últimos dígitos. Deberías recibir siempre 16 dígitos y puede ser `string` o `int`.
 
