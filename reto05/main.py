@@ -42,4 +42,4 @@ def check_password(
 
 assert check_password(gen_password(10), 10)
 assert check_password(gen_password(6), 6)
-assert check_password(gen_password(4), 4)
+assert check_password(gen_password(2), 4)
