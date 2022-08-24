@@ -10,3 +10,4 @@ Newsletter de pruebas técnicas para devs (Andros Fenollosa)
 | 2   | [Cubo de Rubik](reto02/)               |
 | 3   | [Ocultando números sensibles](reto03/) |
 | 4   | [Formatea un precio](reto04/)          |
+| 5   | [Contraseña segura](reto05/)           |
