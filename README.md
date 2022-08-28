@@ -11,3 +11,4 @@ Newsletter de pruebas técnicas para devs (Andros Fenollosa)
 | 3   | [Ocultando números sensibles](reto03/) |
 | 4   | [Formatea un precio](reto04/)          |
 | 5   | [Contraseña segura](reto05/)           |
+| 6   | [Desfragmentando el disco](reto06/)    |
